@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @sihadi
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning c programming language
-- 💞️ I’m looking to collaborate on a rental car project
-- 📫 How to reach me : through my email
-
-<!---
-sihadi/sihadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in programming and software development
+- 🌱 I’m currently learning C, PL/SQL, PHP, and HTML
+- 💞️ I’m looking to collaborate on projects related to IT and software solutions
+- 📫 How to reach me: via my email sihadiaya19@gmail.com
